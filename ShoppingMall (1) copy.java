@@ -41,8 +41,8 @@ public class ShoppingMall {
 				break;
 			}
 		}
-		
-		
+
+		System.out.println("This is third time.");
 
 	}
 
