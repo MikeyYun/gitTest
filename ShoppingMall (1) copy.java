@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Shoppingmall2 {
+	
+	// 2024년 10월 22일 두번째 수정
 
 	public static void main(String[] args) {		
 		Scanner sc = new Scanner(System.in);
